@@ -1,0 +1,12 @@
+mountain size 915x544
+
+cloud 277x89
+
+section bg: #F7EAE0;
+
+#name {
+  color: #1D4533;
+}
+#title{
+  color: #F9D2BA;
+}
